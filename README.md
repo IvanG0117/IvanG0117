@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Ivan 👋
 
-<!--
-**IvanG0117/IvanG0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Carrera
+![Ingeniería](https://img.shields.io/badge/Carrera-Ingeniería%20en%20Sistemas%20Computacionales-green)
 
-Here are some ideas to get you started:
+### 👤 Información Personal
+* **Edad:** ![22 años](https://img.shields.io/badge/Edad-22%20años-red)
+* **Cumpleaños:** ![25 de Febrero](https://img.shields.io/badge/Cumple-25%20de%20Febrero-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏋️‍♂️ Mis Pasatiempos
+* 🏃‍♂️ **Gimnasio** (Entrenamiento de fuerza y salud)
+* 🎮 **Videojuegos**
+* 🎧 **Música**
+
+---
+*“El código es ley, pero el entrenamiento es disciplina.”*
