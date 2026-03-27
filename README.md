@@ -10,7 +10,7 @@ Aquí tienes un poco sobre mí, combinando mis intereses y mi perfil profesional
 
 * **Edad:** ![22 años](https://img.shields.io/badge/Edad-22%20años-red)
 * **Cumpleaños:** ![25 de Febrero](https://img.shields.io/badge/Cumple-25%20de%20Febrero-green)
-* **Biografía Rápida:** Soy un estudiante apasionado por la tecnología y el mundo del código abierto.
+* **Biografía Rápida:** Soy un estudiante Con el entusiasmos de descubrir los diferentes mundos de la tecnologia.
 
 ## 🛠️ Tecnologías y Herramientas
 
