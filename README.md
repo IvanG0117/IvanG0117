@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ivan Martínez 👋
+# ¡Hola! Soy Ivan 👋
 
 ![Ingeniería](https://img.shields.io/badge/Carrera-Ingeniería%20en%20Sistemas%20Computacionales-green)
 
